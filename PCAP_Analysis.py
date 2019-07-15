@@ -1,6 +1,6 @@
 ###################################################
 ######  Automated PCAP Analysis Using  ############
-######  Bro/Zeek, Virus Total, Hybrid Analysis  ###
+######  Bro/Zeek, VirusTotal, Hybrid Analysis   ###
 ######        DrCyberNinja          ###############
 ###################################################
 
